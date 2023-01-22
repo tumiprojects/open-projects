@@ -1,2 +1,2 @@
 # open-projects
-Open projects will be uploaded here.
+Open projects from Tumi Robotics will be uploaded here.
