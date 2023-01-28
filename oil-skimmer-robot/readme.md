@@ -1,4 +1,4 @@
-# Project: Robotic System for the Identification, Containment and Removal of Oil to Mitigate the Environmental Impact
+# Project: Robotic System for the Identification, Containment and Removal of Oil to Mitigate the Environmental Impact in fishing activities and the ocean ecosystem. 
 
 The following repository recopilates the files related to this project.
 
